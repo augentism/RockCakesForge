@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "rockcakes:blocks/rockcake_ore"
+  }
+}

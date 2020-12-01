@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "rockcakes:rockcake_ore"
+  },
+  "result": "rockcakes:rawrockcake",
+  "experience": 0.7,
+  "cookingtime": 200
+}
